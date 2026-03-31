@@ -32,7 +32,7 @@ ecommerce-backend/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone https://github.com/aaddy307/E-commerce_Backend.git
 cd ecommerce-backend
 
 ### 2. Install dependencies
